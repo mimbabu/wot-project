@@ -1,0 +1,5 @@
+                      --------------
+              deployment:
+              task: 
+              - export DEPLOYPATH=/home/wotbsgppgit/public_html/
+              -/bin/cp *$DEPLOYPATH
